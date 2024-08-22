@@ -384,6 +384,27 @@ footer {
 .footer-nav a:hover {
     color: #7e685b;
 }
+.cafe-story, .cafe-mission {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #f8f2e0;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.cafe-story h3, .cafe-mission h3 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #4c3c32;
+}
+
+.cafe-story p, .cafe-mission p {
+    font-size: 18px;
+    color: #7e685b;
+    line-height: 1.6;
+}
+
 
 
 
