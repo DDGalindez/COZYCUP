@@ -10,9 +10,10 @@
 </ul>
 
 <h1>About the Authors</h1>
-<img src = "https://avatars.githubusercontent.com/u/171352618?v=4" style= "border-radius: 50%" width = 150 >
+
 <p><b>Name: </b>Dave Galindez</p> 
 <p><b>Email: </b>davegalindez@gmail.com</p>
+
 
 <p><b>Name: </b>Madz Jagmis</p> 
 <p><b>Email: </b>madzjagmis@gmail.com</p>
